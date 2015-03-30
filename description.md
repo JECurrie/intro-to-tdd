@@ -49,3 +49,11 @@ on their own computer, we will have less problems getting started.
 
 If you have any issues with setup, please show up 30 minutes ahead of time and
 we will help you to get things running.
+
+## Resources
+
+- http://en.wikipedia.org/wiki/Test-driven_development
+- http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+- http://www.jamesshore.com/Agile-Book/test_driven_development.html
+- http://www.amazon.ca/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658
+- http://www.amazon.ca/Test-Driven-Development-By-Example/dp/0321146530
