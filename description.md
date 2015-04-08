@@ -8,7 +8,7 @@ to get experience writing tests and doing it the TDD way.
 ## What to expect:
 
 We'll be writing the solution to a simple problem using a test-first approach.
-We will be doing this in Ruby, using RSpec to write the tests (if you don't
+We will be doing this in Ruby, using minitest to write the tests (if you don't
 have Ruby installed checkout our
 [GitHub repository](https://github.com/Boltmade/intro-to-tdd)). We will be
 doing this in pairs, if you don't want to pair with a stranger, bring a friend
